@@ -7,9 +7,10 @@
 
 
 ### Desktop версия
-<p align="center">
-  <img src="https://sun9-49.userapi.com/cnF3w4aYEIdGAzqTr31m1fYzx51mPgZdny2JHg/ekfQQ-jqTn8.jpg">
-</p>
+<figure align="center">
+  <img src = "https://sun9-49.userapi.com/cnF3w4aYEIdGAzqTr31m1fYzx51mPgZdny2JHg/ekfQQ-jqTn8.jpg">
+  <figcaption>Desktop версия</figcaption>
+</figure>
 
 ### Mobile версия
 <p align="center">
