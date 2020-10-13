@@ -8,10 +8,7 @@
 
 ### Desktop версия
 <p align="center">
-  <figure>
-    <img src = "https://sun9-49.userapi.com/cnF3w4aYEIdGAzqTr31m1fYzx51mPgZdny2JHg/ekfQQ-jqTn8.jpg">
-    <figcaption>Desktop версия</figcaption>
-  </figure>
+  <img src = "https://sun9-49.userapi.com/cnF3w4aYEIdGAzqTr31m1fYzx51mPgZdny2JHg/ekfQQ-jqTn8.jpg">
 </p>
 
 ### Mobile версия
