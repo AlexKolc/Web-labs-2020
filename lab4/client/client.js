@@ -59,7 +59,7 @@ function getLocation() {
     if (currentLocation) {
         currentLocation.getCurrentPosition(
             (position) => {
-                fillCurrentCityInfo('coordinates',[`lat=${position.coords.latitude}`, `lon=${position.coords.longitude}`]);
+                 fillCurrentCityInfo('coordinates',[`lat=${position.coords.latitude}`, `lon=${position.coords.longitude}`]);
             },
             (error) => {
                 fillCurrentCityInfo('city',['q=Saint Petersburg']);
